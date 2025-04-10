@@ -27,13 +27,6 @@ I'm currently a student in the field of **Cybersecurity**, **Networking**, and *
 - 🔍 Incident Response & Forensics
 - 🐍 Python Automation for Security
 
-## 📫 Contact
-
-Want to chat about projects, collaboration or just tech in general?
-- 📧 Email: [Insert your email]
-- 🔗 LinkedIn: [Insert your LinkedIn]
-- 🌐 Website or Blog: [Optional]
-
 ---
 
 > *"Every system is secure — until it isn’t."*
@@ -71,12 +64,7 @@ Sou atualmente estudante na área de **Cibersegurança**, **Redes** e **Sistemas
 - 🔍 Análise Forense e Resposta a Incidentes
 - 🐍 Automação com Python para Cibersegurança
 
-## 📫 Contacto
 
-Se quiseres falar sobre projetos, colaborações ou tecnologia:
-- 📧 Email: [Coloca aqui o teu email]
-- 🔗 LinkedIn: [Coloca aqui o teu LinkedIn]
-- 🌐 Website ou Blog: [Opcional]
 
 ---
 
